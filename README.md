@@ -6,13 +6,12 @@ This repository contains a project that uses Beautiful Soup to scrape data on po
 ## Project Details
 ### Objectives
 - **Web Scraping**: Use Beautiful Soup to scrape data from a website containing information about popular programming languages.
-- **Data Cleaning**: Clean and preprocess the scraped data to ensure accuracy and consistency.
 - **Data Analysis**: Perform analysis to extract insights about the popularity of programming languages.
 - **Data Visualization**: Create visualizations to represent the findings and insights.
 
 ### Tools and Technologies
 - **Programming Language**: Python
-- **Libraries**: Beautiful Soup, Requests, Pandas, Matplotlib, Seaborn
+- **Libraries**: Beautiful Soup, Requests, Pandas, plotly
 - **Tools**: Jupyter Notebook
 
 ## File Structure
